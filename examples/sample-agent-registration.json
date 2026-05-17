@@ -1,1 +1,9 @@
-
+{
+  "ArtifactID": "AG-001",
+  "Name": "Portfolio Validation Agent",
+  "Version": "1.0",
+  "Status": "REGISTERED",
+  "Type": "Validation",
+  "MutationRights": "NONE",
+  "Scope": "Portfolio review and evidence verification"
+}
